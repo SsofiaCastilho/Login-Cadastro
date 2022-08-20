@@ -1,0 +1,93 @@
+body {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: url(https://images4.alphacoders.com/932/932271.jpg) no-repeat;
+    background-size: cover;
+}
+
+.form{
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.form .login>input{
+    display: block;
+    width: 100%;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    height: 25px;
+    padding-left: 10px;
+}
+.form .conectar{
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.form .paragrafo{
+    font-weight: 600;
+    font-size: 15px;
+}
+
+
+.titulo{
+    margin-left: 15px;
+    font-weight: 400;
+    
+}
+
+.form{
+    width: 500px;
+    background-color: rgba(86, 197, 58, 0.663);
+    padding: 30px;
+    border-radius: 40px;
+}
+
+.form .cadastro>input{
+    display: 50%;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    height: 30px;
+    padding-left: 15px;
+    background: url(https://images4.alphacoders.com/932/932271.jpg) no-repeat;
+    background-size: cover;
+}
+
+h2{
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+}
+
+.form .genero>input{
+    display: inline;
+}
+
+.form .genero{
+    margin-bottom: 15px;
+}
+
+.form .checar.news{
+    margin-bottom: 15px;
+}
+
+.form .cadastrar{
+    border-radius: 3px;
+    background-color: rgba(86, 197, 58, 0.663);
+}
+
+a{
+    display: block;
+    margin-top: 20px;
+}
+
+
